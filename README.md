@@ -9,7 +9,7 @@ Ali Mirza ()
 
 Andres Ramirez ()
 
-Gizelle Lao ()
+Gizelle Lao (Github: https://github.com/GizelleL  --- LinkedIn: https://www.linkedin.com/in/gizellelao/)
 
 Rafael Muniz ()
 
