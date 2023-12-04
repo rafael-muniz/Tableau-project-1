@@ -5,12 +5,12 @@ For further insights and analysis, refer to the tableau-project1.md
 
 # Group members:
 
-Ali Mirza ()
+Ali Mirza (Github:   --- LinkedIn: https://www.linkedin.com/in/m-ali-mirza/)
 
-Andres Ramirez ()
+Andres Ramirez (Github:   --- LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez/)
 
 Gizelle Lao (Github: https://github.com/GizelleL  --- LinkedIn: https://www.linkedin.com/in/gizellelao/)
 
-Rafael Muniz ()
+Rafael Muniz (Github: https://github.com/rafael-muniz  --- LinkedIn: https://www.linkedin.com/in/rafaelfma/)
 
-Trung Le ()
+Trung Le (Github: https://github.com/LETRUNGK2  --- LinkedIn: https://www.linkedin.com/in/trung-le-analyst/)
