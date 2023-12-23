@@ -5,7 +5,7 @@ For further insights and analysis, refer to the tableau-project1.md
 
 # Group members:
 
-Ali Mirza (Github:   --- LinkedIn: https://www.linkedin.com/in/m-ali-mirza/)
+Ali Mirza (Github: https://github.com/alimirzaGit --- LinkedIn: https://www.linkedin.com/in/m-ali-mirza/)
 
 Andres Ramirez (Github:   --- LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez/)
 
