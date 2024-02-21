@@ -7,7 +7,7 @@ For further insights and analysis, refer to the tableau-project1.md
 
 Ali Mirza (Github: https://github.com/alimirzaGit --- LinkedIn: https://www.linkedin.com/in/m-ali-mirza/)
 
-Andres Ramirez (Github:   --- LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez/)
+Andres Ramirez (Github: https://github.com/aframireza  --- LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez/)
 
 Gizelle Lao (Github: https://github.com/GizelleL  --- LinkedIn: https://www.linkedin.com/in/gizellelao/)
 
